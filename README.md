@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+Thai&size=30&pause=1000&random=false&width=435&lines=+%F0%9F%A5%B6+%E0%B8%88%E0%B8%B5%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C+%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%AB%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B9%88%E0%B8%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+Thai&size=25&pause=1000&random=false&width=435&lines=+%F0%9F%A5%B6+%E0%B8%88%E0%B8%B5%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C+%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%AB%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B9%88%E0%B8%A7)](https://git.io/typing-svg)
 <!--
 **leokungYT/leokungYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
